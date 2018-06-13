@@ -4,7 +4,7 @@ import { createApp } from "@phenomic/preset-react-app/lib/client";
 
 const Home = () => (
 	<div>
-		<p>Hello hungry people!</p>
+		<p>Hello HUNGRY people!</p>
 	</div>
 );
 
